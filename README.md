@@ -1,0 +1,2 @@
+org.openhab.persistence.airvantage
+==================================
